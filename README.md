@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nagaveni</h1>
 <h3 align="center">Computer Science Engineering Student | Java Developer | DSA Enthusiast | Exploring AI & Full-Stack Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nagaveni1817&label=Profile%20views&color=0e75b6&style=flat" alt="nagaveni1817" /> </p>
 
 - 🔭 I’m currently working on [LeetCode (DSA in Java) and AI-powered Projects](https://github.com/nagaveni1817/leetcode-solutions.git)
 
